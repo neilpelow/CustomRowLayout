@@ -1,11 +1,17 @@
 <resources>
 
     <string name="app_name">GeoQuiz</string>
-    <string name="question_text">Andy loves to bash.</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
+    <string name="next_button">Next</string>
     <string name="menu_settings">Settings</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Wrong. Idiot!</string>
-
+    <string name="question_1">This is the best quiz app ever.</string>
+    <string name="question_2">This is still the best app ever.</string>
+    <string name="question_3">It\'s actually not that good.</string>
+    <string name="question_4">It is forbidden to copy this app.</string>
+    <string name="question_5">Neil is really cool.</string>
+    <string name="question_6">Tim is really cool.</string>
+    <string name="question_7">Cindy Loo hasn\'t a clue.</string>
 </resources>
