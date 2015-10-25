@@ -1,0 +1,4 @@
+2015-05-08 18:20:37,840 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-8.1.16.v20140903
+2015-05-08 18:20:37,877 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@127.0.0.1:54411
+2015-05-11 14:49:31,898 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - stopped o.e.j.s.ServletContextHandler{/help,null}
+2015-05-11 14:49:31,960 [Stop Help Server] WARN  o.e.j.util.thread.QueuedThreadPool - 2 threads could not be stopped
